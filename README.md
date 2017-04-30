@@ -1,4 +1,4 @@
-[![Gem Version](https://img.shields.io/gem/v/rbld-plugin-hello.svg)](https://rubygems.org/gems/gitv)
+[![Gem Version](https://img.shields.io/gem/v/gitv.svg)](https://rubygems.org/gems/gitv)
 [![Build Status](https://travis-ci.org/rbld/rbld-plugin-hello.svg?branch=master)](https://travis-ci.org/rbld/gitv)
 
 ```gitv``` is yet another gem for versioning based on git tags.
