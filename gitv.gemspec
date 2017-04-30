@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary     = "gitv-#{s.version}"
   s.email       = 'rbld-devel@rbld.io'
   s.license     = 'Apache-2.0'
-  s.homepage    = 'http://rbld.io/'
+  s.homepage    = 'https://github.com/rbld/gitv'
   s.platform    = Gem::Platform::RUBY
   s.required_ruby_version = '>= 2.0.0'
 
