@@ -8,7 +8,7 @@ begin
   when 'help', '--help', '-h'
     puts "Usage [help|--help|-h] [source root] [cached version file]"
   when 'version', '--version', '-v'
-    puts GitV.new( File.join( File.dirname(__FILE__), '..' ) ).version
+    puts GitV.new( File.join( __dir__, '..' ) ).version
   else
     puts GitV.new( ARGV[0],  ARGV[1] ).version
   end
