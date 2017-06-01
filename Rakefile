@@ -14,4 +14,10 @@ task :lint do
     end
 end
 
-task :default => :build
+task :license do
+  puts 'Running license_finder...'
+  system('license_finder')
+  exit 1 unless $? == 0
+end
+
+task :default => [:license, :build]

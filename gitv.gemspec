@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'travis', '~> 1.8', '>= 1.8.2'
   s.add_development_dependency 'rubygems-tasks', '~> 0.2', '>= 0.2.4'
   s.add_development_dependency 'rake', '~> 11.2', '>= 11.2.2'
+  s.add_development_dependency 'license_finder', '~> 3.0', '>= 3.0.0'
 
   s.require_path     = 'lib'
   s.bindir           = 'bin'

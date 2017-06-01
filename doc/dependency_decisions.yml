@@ -1,0 +1,43 @@
+---
+- - :whitelist
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:19:08.844234892 Z
+- - :whitelist
+  - Apache 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:19:17.579842115 Z
+- - :whitelist
+  - New BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:19:24.079403755 Z
+- - :whitelist
+  - ruby
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:19:35.967803046 Z
+- - :whitelist
+  - ISC
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:19:41.163250135 Z
+- - :whitelist
+  - GPL-2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:19:45.778592488 Z
+- - :whitelist
+  - Simplified BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-01 11:25:16.882501816 Z
